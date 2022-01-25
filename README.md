@@ -1,5 +1,6 @@
 ![Elliot's Github Stats](https://github-readme-stats.vercel.app/api?username=Ajyoop&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajyoop&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+\br
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajyoop&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
