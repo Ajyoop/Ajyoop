@@ -1,4 +1,4 @@
-![Elliot's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Elliot's Github Stats](https://github-readme-stats.vercel.app/api?username=Ajyoop&show_icons=true&theme=tokyonight)
 
 
 <!--
